@@ -1,16 +1,25 @@
-### Hi there 👋
+##  Konstantin Pochapsky
 
-<!--
-**pochapsky/pochapsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://img.kupigolos.ru/hero/5cdb24f3b1b61.png?p=bh&s=9055fef02549abf46d80d95bd9a7c3c4)
 
-Here are some ideas to get you started:
+### Information
+    e-mail: pochapsky@bk.ru
+    b.date: 01/11/1988
+    country: Russia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Links
+<div id="badges">
+<a href="your-github-URL">
+ <img src="https://img.shields.io/badge/-github-green" alt="Github "/>
+
+</a>
+<a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+
+  
+  <a href="your-github-URL">
+  <img src="https://komarev.com/ghpvc/?username=pochapsky&style=flat-square&color=blue" alt=""/>
+  </a>
+</div>
