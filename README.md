@@ -1,6 +1,6 @@
 ##  Konstantin Pochapsky
 
-//![](https://img.kupigolos.ru/hero/5cdb24f3b1b61.png?p=bh&s=9055fef02549abf46d80d95bd9a7c3c4)
+<!--- ![](https://img.kupigolos.ru/hero/5cdb24f3b1b61.png?p=bh&s=9055fef02549abf46d80d95bd9a7c3c4) -->
 
 ### Information
     e-mail: pochapsky@bk.ru
