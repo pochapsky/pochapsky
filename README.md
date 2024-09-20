@@ -4,7 +4,7 @@
 
 ### Information
     e-mail: 
-    b.date: 01/11/1988
+    b.date: 
     country: Russia
 
 
